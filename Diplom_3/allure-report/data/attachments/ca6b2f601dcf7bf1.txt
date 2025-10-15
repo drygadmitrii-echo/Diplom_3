@@ -1,0 +1,33 @@
+=== PAGE INFO ===
+PAGE TITLE: Stellar Burgers
+CURRENT URL: https://stellarburgers.education-services.ru/login
+
+=== INPUT ELEMENTS (2 found) ===
+Input 0:
+  - type: 'text'
+  - name: 'name'
+  - placeholder: ''
+  - class: 'text input__textfield text_type_main-default'
+  - id: ''
+
+Input 1:
+  - type: 'password'
+  - name: 'Пароль'
+  - placeholder: ''
+  - class: 'text input__textfield text_type_main-default'
+  - id: ''
+
+=== BUTTON ELEMENTS (2 found) ===
+Button 0:
+  - text: 'Войти'
+  - type: 'submit'
+  - class: 'button_button__33qZ0 button_button_type_primary__1O7Bx button_button_size_medium__3zxIa'
+
+Button 1:
+  - text: ''
+  - type: 'button'
+  - class: 'Modal_modal__close_modified__3V5XS Modal_modal__close__TnseK'
+
+=== HEADERS (2 found) ===
+Header 0: 'Вход'
+Header 1: ''
